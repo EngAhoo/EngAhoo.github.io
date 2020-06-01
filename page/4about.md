@@ -12,30 +12,27 @@ type: page
 ## 关于我
 
 
-诞生于冰与火之中,从一个懵懂无知的小孩到单身随性的潇洒,到已为人夫,为人父,为父母的儿子,
-应该去保护那些曾经保护我、给我爱的人！
+努力过,不后悔！
 
-* 2019.12.01 NCP爆发.
+* 2016.09.19 Become to a eng
+* 2019.02.17 New journey.
 
 
 ## 联系我
 
-* GitHub：[FamilyProtector](https://github.com/FamilyProtector)
-* email：FamilyProtectors@outlook.com
+* GitHub：[EngAhoo](https://github.com/EngAhoo)
+* email：eng_ahoo@outlook.com
 * [Weibo]
 * [知乎]
 
 ## 关于本站
 
-**建议有化学、医疗、漫画、IT、运营等大神共同传播、维护。
+**作为发展旅途的新起点。
 
 
 
 ## 友情链接
 
-[中国卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/gzbd_index.shtml ) \| [WHO](https://www.who.int/zh/home ) 
 
 
-## Comments
 
-{% include comments.html %}
